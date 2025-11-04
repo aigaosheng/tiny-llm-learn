@@ -1,9 +1,18 @@
 [submodule "nanochat"]
 	path = nanochat
-	url = https://github.com/karpathy/nanochat.git
+	url = https://github.com/aigaosheng/nanochat.git
 [submodule "nanoGPT"]
 	path = nanoGPT
-	url = https://github.com/karpathy/nanoGPT.git
+	url = https://github.com/aigaosheng/nanoGPT.git
 [submodule "micrograd"]
 	path = micrograd
-	url = https://github.com/karpathy/micrograd.git
+	url = https://github.com/aigaosheng/micrograd.git
+[submodule "nanoChat"]
+	path = nanoChat
+	url = https://github.com/aigaosheng/nanoChat.git
+[submodule "llm.c"]
+	path = llm.c
+	url = https://github.com/aigaosheng/llm.c.git
+[submodule "llama2.c"]
+	path = llama2.c
+	url = https://github.com/aigaosheng/llama2.c.git
