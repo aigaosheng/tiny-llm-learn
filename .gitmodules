@@ -16,3 +16,6 @@
 [submodule "llama2.c"]
 	path = llama2.c
 	url = https://github.com/aigaosheng/llama2.c.git
+[submodule "vllm"]
+	path = vllm
+	url = https://github.com/aigaosheng/vllm.git
