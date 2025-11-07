@@ -209,3 +209,5 @@ __marimo__/
 ktransformers/csrc/
 ktransformers/DeepSeek-V2-Lite-Chat-GGUF/
 ktransformers/third_party/
+
+Qwen/
