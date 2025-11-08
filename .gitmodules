@@ -16,3 +16,6 @@
 [submodule "vllm"]
 	path = vllm
 	url = https://github.com/aigaosheng/vllm.git
+[submodule "nanochat"]
+	path = nanochat
+	url = https://github.com/aigaosheng/nanochat
