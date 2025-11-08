@@ -21,4 +21,4 @@
 	url = https://github.com/aigaosheng/nanochat
 [submodule "ktransformers"]
 	path = ktransformers
-	url = git@github.com:aigaosheng/ktransformers.git
+	url = git@github.com:aigaosheng/micrograd.git
