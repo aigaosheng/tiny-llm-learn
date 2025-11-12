@@ -22,3 +22,6 @@
 [submodule "ktransformers"]
 	path = ktransformers
 	url = git@github.com:aigaosheng/ktransformers.git
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = git@github.com:aigaosheng/llama.cpp.git
